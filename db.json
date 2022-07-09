@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Raul Esteban",
+      "empresa": "Alcaldía San Juan de Arama",
+      "email": "estebanbenitez1996@gmail.com",
+      "telefono": "3105706841",
+      "notas": "Notas de este cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Yisela Tatiana",
+      "empresa": "Yiyi Casa del Detalle",
+      "email": "yisela@gmail.com",
+      "telefono": "3105728140",
+      "notas": "Notas de Yisela",
+      "id": 2
+    },
+    {
+      "nombre": "Juancho",
+      "empresa": "Juancho pcs",
+      "email": "juancho@gmail.com",
+      "telefono": "3112365498",
+      "notas": "Notas de Juancho",
+      "id": 3
+    }
+  ]
+}
